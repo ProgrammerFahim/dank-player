@@ -1,0 +1,7 @@
+assets
+build
+include
+lib
+*.o
+*.s
+player
